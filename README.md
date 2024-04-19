@@ -26,8 +26,8 @@ Connect the PDM microphone to the Raspberry Pi Pico as follows:
 ### Schematic Diagram and Actual Microphone Setup
 
 <p align="center">
-  <img src="./img/schematics.png" alt="Schematic Diagram" height="300" width="400"/>
-  <img src="./img/actual_mic.jpeg" alt="Actual Microphone" height="300" width="400"/>
+  <img src="./img/schematics.png" alt="Schematic Diagram" height="500" width="400"/>
+  <img src="./img/actual_mic.jpeg" alt="Actual Microphone" height="500" width="400"/>
 </p>
 
 ### Audacity & System Settings
