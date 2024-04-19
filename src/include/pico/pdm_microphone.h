@@ -1,9 +1,3 @@
-/*
- * Copyright (c) 2021 Arm Limited and Contributors. All rights reserved.
- *
- * SPDX-License-Identifier: Apache-2.0
- * 
- */
 
 #ifndef _PICO_PDM_MICROPHONE_H_
 #define _PICO_PDM_MICROPHONE_H_
