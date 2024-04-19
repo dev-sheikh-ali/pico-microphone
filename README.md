@@ -1,6 +1,10 @@
-# USB Microphone with Raspberry Pi Pico
+# Creating a USB Microphone with the Raspberry Pi Pico 🎤
 
 This project transforms a Raspberry Pi Pico into a USB microphone using a PDM microphone, enabling the Pico to capture audio data and transmit it over USB to any connected computer.
+
+This project  leverages the Programming I/O (PIO), Direct Memory Access (DMA), and Universal Serial Bus (USB) capabilities of the boards RP2040 microcontroller (MCU) on the pico
+
+
 
 ## Prerequisites
 
@@ -8,6 +12,7 @@ Before starting, ensure you have the following components:
 - Raspberry Pi Pico
 - PDM microphone module
 - Jumper wires
+- Breadboard (generic)
 
 ## Wiring Diagram
 
