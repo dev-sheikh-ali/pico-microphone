@@ -55,6 +55,16 @@ cd build
 cmake ..
 make
 ```
+
+Grab your Raspberry Pi Pico board and a micro USB cable. Plug the cable into your Raspberry Pi or laptop, then press and hold the BOOTSEL button on your Pico while you plug the other end of the micro USB cable into the board. Then release the button after the board is plugged in  disk volume called RPI-RP2 should pop up on your desktop. Double-click to open it, and then drag and drop the UF2 file into it. 
+
+A disk volume called RPI-RP2 should pop up on your desktop. Double-click to open it, and then drag and drop the UF2 file into it. 
+
+or run this command (adjust the path)
+
+```bash
+cp -a path/to/usb_microphone.uf2  /media/RPI-RP2/.
+```
 ## Credits
 
 This project is inspired by Sandeep Mistry's tutorial on Hackster.io. Detailed guidance and foundational concepts can be found in the original article: [Create a USB Microphone with the Raspberry Pi Pico](https://www.hackster.io/sandeep-mistry/create-a-usb-microphone-with-the-raspberry-pi-pico-cc9bd5).
